@@ -1,7 +1,7 @@
 <p>
 Installation
 </p>
-1. Выполнить команду php composer update
+1. Выполнить команду: php composer update
 
 2. Создать базу данных и настроить конфиг `config/db.php` пример:
 ```
@@ -13,6 +13,6 @@ return [
     'charset' => 'utf8',
 ]
 ```
-3. Выполнить команду php yii migrate
+3. Выполнить команду: php yii migrate
 
 
